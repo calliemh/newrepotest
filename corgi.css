@@ -1,0 +1,22 @@
+#css-abbr {
+    color: green;
+    text-decoration: underline;
+    font-size: 40pt;
+}
+
+#short {
+    font-family: cursive;
+    text-transform: lowercase;
+    font-size: 14pt;
+
+}
+
+#sweet {
+    font-family: cursive;
+    color: purple;
+    font-style: italic;
+}
+
+h1 {
+   color: #444;
+}

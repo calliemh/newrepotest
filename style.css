@@ -1,0 +1,37 @@
+img {
+    border-radius: 50%;
+}
+
+#header {
+    color: yellow;
+}
+
+#firstname {
+    background-color: red;
+}
+
+.maintitle {
+    font-size: 50px;
+}
+
+.address {
+    font-style: italic;
+}
+
+* {
+    font-size: 10px;
+}
+
+p * {
+    background-color: hotpink;
+}
+
+p strong {
+    background-color: green;
+}
+
+.kuwa {
+    color: rgb(152, 187, 13);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
